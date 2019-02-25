@@ -1,3 +1,1 @@
-INDEX VERSION 1.131+C:\Users\samuel Butler\Desktop\Personal_Projects\Projects\.metadata\.plugins\org.eclipse.jdt.core
-122245532.index
-2842528100.index
+INDEX VERSION 1.131+C:\Users\sambu\Desktop\Personal_Projects\Projects\.metadata\.plugins\org.eclipse.jdt.core
